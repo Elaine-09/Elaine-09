@@ -27,8 +27,6 @@ My background in business analysis includes gathering requirements, documenting 
 
 ## 🛠️ My Toolbox
 
-## 🛠️ My Toolbox
-
 ### Data & Analytics
 
 <p>
@@ -54,7 +52,7 @@ C# · Git · GitHub · VS Code · Visual Studio · Jupyter
 <p>
   <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence" width="48" height="48" />
-  <img src="https://img.icons8.com/fluency/48/automation.png" alt="Automation" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/settings.png" alt="Automation" width="48" height="48" />
 </p>
 
 Azure & Azure SQL · Artificial Intelligence · Automation
