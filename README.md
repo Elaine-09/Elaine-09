@@ -27,29 +27,37 @@ My background in business analysis includes gathering requirements, documenting 
 
 ## 🛠️ My Toolbox
 
+## 🛠️ My Toolbox
+
 ### Data & Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-7851A9?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r" alt="Python and R" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" width="48" height="48" />
+</p>
+
+Python · R · SQL Server · Power BI · Excel
 
 ### Development & Tools
 
-![C Sharp](https://img.shields.io/badge/C%23-9170CB?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,git,github,vscode,visualstudio" alt="C Sharp, Git, GitHub, VS Code and Visual Studio" />
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter Notebook" width="48" height="48" />
+</p>
+
+C# · Git · GitHub · VS Code · Visual Studio · Jupyter
 
 ### Exploring Next
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-C76B98?style=for-the-badge)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-76A89A?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="Artificial Intelligence" width="48" height="48" />
+  <img src="https://img.icons8.com/fluency/48/automation.png" alt="Automation" width="48" height="48" />
+</p>
 
----
+Azure & Azure SQL · Artificial Intelligence · Automation
 
 ## 📂 A Few Things I’ve Worked On
 
