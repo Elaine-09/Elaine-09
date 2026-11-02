@@ -1,4 +1,4 @@
-# Hey, I’m Elaine 👋🌷
+# Hey, I’m Elaine 
 
 ### Data Science Student · Business Analysis · SQL & Power BI
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌸 About Me
+## 👩🏼‍💻 About Me
 
 I enjoy making sense of data, understanding how businesses work, and turning questions into useful insights.
 
